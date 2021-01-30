@@ -1,0 +1,41 @@
+Welcome to our front end dev challenge!
+
+
+CHALLENGE BACKGROUND:
+The mythical company FireFly are building a new personal data app, and you're in charge of getting the front-end fired up. The CTO is trusting you to choose the framework which will help you get the app going quickest. Meanwhile, the designer has had to rush through the designs before heading off on an (arguably deserved) holiday. They have sent you through some design files with the note: 
+
+"Sorry, very rushed designs- I haven't had time to tidy them up or do mobile screens, so they're a bit rough... Please use your discretion when building! Thanks :)"
+
+The full-stackers will jump in after you're done to inject the data, so for now you just need to have enough mock data in place to exemplify the designs and functionality.
+
+
+DELIVERABLE:
+- Using the JS framework of your choice (Angular, Vue, React) setup a single-page app and reproduce the designs as best you can
+- If you decide to deviate from the designs, let the designer know where and why in the 'implementation-notes.txt' file in project root
+- All src files should be included, aswell as any README notes which other devs will need to be able to (locally) run and develop the app
+
+
+NOTES:
+- The designs are in the folder 'designs' and are provided as svg, png, and sketch files, you should be able to use at least one format!
+- The designs are based on Bootstrap 4.3 components, utilities and helpers. You are strongly encouraged to leverage as many as possible.
+- The designs use 'Open sans' font, and 'Material Icons', both freely available online. Include them however you see fit.
+- If you use the sketch or svg files, you'll likely need to install the required fonts (found inside 'design-assets') on your operating system first.
+
+
+SOME THINGS ON OUR MIND:
+- Sensible basic app?
+- Demonstration of js skills?
+- Demonstration of component-based development?
+- Demonstration of (s)css knowledge, coding style and appropriate contextual usage?
+- Bootstrap knowledge, usage and methods of theming/overriding?
+- Clear, understandable, tidy, reusable code?
+- Responsive?
+- Cross-browser compatabile?
+- Accessibile?
+- Magic?
+
+
+FINAL WORD:
+We understand you may not have time to 'complete' the app & designs 100%, so focus on ensuring that what you do submit is at least 'done' by your own standards, and exemplary of how you would hand over code for someone else to continue/complete :) 
+
+Good luck!

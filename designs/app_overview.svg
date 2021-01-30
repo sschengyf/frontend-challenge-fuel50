@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="839px" viewBox="0 0 1280 839" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>app_overview</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="19.82506%" x2="0%" y2="42.6975601%" id="linearGradient-1">
+            <stop stop-color="#298066" stop-opacity="0.169635052" offset="0%"></stop>
+            <stop stop-color="#136785" stop-opacity="0.183265953" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="-1.8189894e-12" y="0" width="1080" height="839"></rect>
+        <rect id="path-4" x="0" y="0" width="1020" height="301" rx="2"></rect>
+        <filter x="-4.4%" y="-15.0%" width="108.8%" height="129.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0.666666667" y="0" width="248" height="38" rx="19"></rect>
+        <filter x="-6.0%" y="-39.5%" width="112.1%" height="178.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0955255682 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="113.882353" height="34"></rect>
+        <filter x="-0.4%" y="-4.4%" width="100.9%" height="105.9%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="67" y="0" width="284.705882" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.4%" height="105.9%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="295" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.3%" height="105.9%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-14" x="0.411764706" y="0" width="209" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.5%" height="105.9%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="0.705882353" y="1.10134124e-13" width="64" height="34"></rect>
+        <filter x="-0.8%" y="-4.4%" width="101.6%" height="105.9%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="0" y="0" width="113.882353" height="34"></rect>
+        <filter x="-0.4%" y="-4.4%" width="100.9%" height="105.9%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-20" x="67" y="0" width="284.705882" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.4%" height="105.9%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-22" x="0.411764706" y="0" width="209" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.5%" height="105.9%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-24" x="0" y="0" width="294" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.3%" height="105.9%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-26" x="4.70588235" y="0" width="64" height="34"></rect>
+        <filter x="-0.8%" y="-4.4%" width="101.6%" height="105.9%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-28" x="0" y="0" width="113.882353" height="34"></rect>
+        <filter x="-0.4%" y="-4.4%" width="100.9%" height="105.9%" filterUnits="objectBoundingBox" id="filter-29">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-30" x="67" y="0" width="284.705882" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.4%" height="105.9%" filterUnits="objectBoundingBox" id="filter-31">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-32" x="0.411764706" y="0" width="208" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.5%" height="105.9%" filterUnits="objectBoundingBox" id="filter-33">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-34" x="0" y="0" width="295" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.3%" height="105.9%" filterUnits="objectBoundingBox" id="filter-35">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-36" x="4.70588235" y="0" width="64" height="34"></rect>
+        <filter x="-0.8%" y="-4.4%" width="101.6%" height="105.9%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-38" x="0" y="0" width="113.882353" height="34"></rect>
+        <filter x="-0.4%" y="-4.4%" width="100.9%" height="105.9%" filterUnits="objectBoundingBox" id="filter-39">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-40" x="67" y="0" width="284.705882" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.4%" height="105.9%" filterUnits="objectBoundingBox" id="filter-41">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-42" x="0.411764706" y="0" width="209" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.5%" height="105.9%" filterUnits="objectBoundingBox" id="filter-43">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-44" x="0" y="0" width="294" height="34"></rect>
+        <filter x="-0.2%" y="-4.4%" width="100.3%" height="105.9%" filterUnits="objectBoundingBox" id="filter-45">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-46" x="4.70588235" y="0" width="64" height="34"></rect>
+        <filter x="-0.8%" y="-4.4%" width="101.6%" height="105.9%" filterUnits="objectBoundingBox" id="filter-47">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.933333333   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-48" x="0" y="0" width="134" height="40" rx="2"></rect>
+        <rect id="path-50" x="0" y="0" width="185" height="38" rx="19"></rect>
+        <filter x="-1.4%" y="-6.6%" width="102.7%" height="113.2%" filterUnits="objectBoundingBox" id="filter-51">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.253032124 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-52" cx="59" cy="59" r="59"></circle>
+        <filter x="-22.0%" y="-18.6%" width="144.1%" height="144.1%" filterUnits="objectBoundingBox" id="filter-53">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.268493226 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-15.7%" y="-12.3%" width="131.4%" height="131.4%" filterUnits="objectBoundingBox" id="filter-54">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.178840691 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-55" cx="59" cy="59" r="59"></circle>
+        <filter x="-22.0%" y="-18.6%" width="144.1%" height="144.1%" filterUnits="objectBoundingBox" id="filter-56">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.268493226 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-15.7%" y="-12.3%" width="131.4%" height="131.4%" filterUnits="objectBoundingBox" id="filter-57">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.178840691 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-58" cx="59" cy="59" r="59"></circle>
+        <filter x="-22.0%" y="-18.6%" width="144.1%" height="144.1%" filterUnits="objectBoundingBox" id="filter-59">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.268493226 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-15.7%" y="-12.3%" width="131.4%" height="131.4%" filterUnits="objectBoundingBox" id="filter-60">
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.178840691 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="1080" height="172" rx="2"></rect>
+        <filter x="-0.7%" y="-4.4%" width="101.4%" height="108.7%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.245001093 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="1080" height="172"></rect>
+        <filter x="-4.2%" y="-26.2%" width="108.3%" height="152.3%" filterUnits="objectBoundingBox" id="filter-64">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-65" x="0" y="0" width="138.666667" height="38" rx="19"></rect>
+        <filter x="-10.8%" y="-39.5%" width="121.6%" height="178.9%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0955255682 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-67" x="0" y="0" width="118.666667" height="38" rx="19"></rect>
+        <filter x="-12.6%" y="-39.5%" width="125.3%" height="178.9%" filterUnits="objectBoundingBox" id="filter-68">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0955255682 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="app_overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1280" height="839"></rect>
+        <g id="bg-/-pale" transform="translate(200.000000, 0.000000)">
+            <g>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Rectangle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M962.8163,45.5014154 C963.846598,46.4624246 965.300163,55.5104605 967.177036,72.6457883 C969.06843,89.9136933 970.186056,102.759137 970.529946,111.182505 C972.937175,168.040241 968.122789,208.261221 956.086641,231.846652 C943.018824,256.695589 928.059836,269.11987 911.20923,269.11987 C902.268092,269.11987 894.444714,264.592378 887.73886,255.537257 C881.033006,246.482136 876.476533,232.689078 874.069304,214.157667 C871.662074,193.099247 873.553441,170.777656 879.743459,147.192225 C858.422284,168.671814 842.2597,191.098695 831.255222,214.473542 C820.250744,237.848389 814.490675,259.327656 813.97484,278.911987 C813.459005,298.496318 815.866198,317.238031 821.196492,335.137689 C826.526786,353.037347 833.748366,368.199182 842.861449,380.62365 C851.974532,393.048118 861.861219,402.629556 872.521807,409.368251 C872.865697,409.368251 873.209582,409.578832 873.553471,410 C796.178238,399.891958 745.79912,363.882599 722.414605,301.970842 C713.473467,278.80658 709,255.642664 709,232.478402 C708.659075,171.408982 738.233165,117.079072 797.726122,69.487041 C820.766747,50.9556309 839.164582,29.8975261 852.920179,6.31209503 C866.675776,-17.2733361 875.100953,-39.2790555 878.195962,-59.7057235 C881.290972,-80.1323915 882.752482,-99.2952669 882.580537,-117.194924 C882.408592,-135.094582 880.947082,-149.098222 878.195962,-159.206263 L874.069304,-175 C878.539873,-173.736495 884.471885,-171.525394 891.865518,-168.366631 C899.259152,-165.207868 913.358427,-157.942821 934.163768,-146.571274 C954.969108,-135.199727 974.656511,-122.459574 993.226567,-108.350432 C1011.79662,-94.2412901 1031.65597,-74.9731243 1052.8052,-50.5453564 C1073.95443,-26.1175884 1091.23464,0.205042495 1104.64635,28.4233261 C1119.08972,59.1686202 1128.63253,92.4404258 1133.27504,128.239741 C1137.91755,164.039056 1136.62799,198.99551 1129.4063,233.110151 C1120.46516,275.226992 1098.71445,313.868615 1064.15351,349.036177 C1029.59257,384.20374 988.068487,404.524811 939.580007,410 C959.181733,399.049621 976.032087,384.940691 990.131574,367.672786 C1004.23106,350.404881 1014.97746,331.768459 1022.37109,311.762959 C1029.76473,291.757459 1034.83703,271.331098 1037.58815,250.483261 C1040.33927,229.635425 1040.85509,208.47203 1039.13564,186.992441 C1037.76008,170.566873 1034.14929,154.457422 1028.30316,138.663607 C1022.45704,122.869791 1015.92323,109.603185 1008.70154,98.8633909 C1001.47985,88.1235964 994.430211,78.5421587 987.552412,70.1187905 C980.674613,61.6954222 974.828572,55.5885719 970.014113,51.7980562 L962.8163,45.5014155 L962.8163,45.5014154 Z" id="f" fill="#136785" fill-rule="nonzero" opacity="0.0299999993" mask="url(#mask-3)"></path>
+                <path d="M95.2053586,675.43917 C95.7217143,675.920496 96.4501986,680.452248 97.3908329,689.034557 C98.338745,697.683269 98.8988664,704.11697 99.071214,708.335853 C100.277648,736.813317 97.8648167,756.958184 91.8326492,768.771058 C85.2834387,781.216765 77.7864286,787.439525 69.341394,787.439525 C64.8603553,787.439525 60.9395052,785.171909 57.5787261,780.636609 C54.217947,776.101309 51.934375,769.192991 50.7279415,759.911447 C49.521508,749.364238 50.4694058,738.184364 53.5716634,726.37149 C42.8861094,737.129643 34.7858917,748.362252 29.270767,760.069654 C23.7556424,771.777056 20.8688627,782.535048 20.6103412,792.343952 C20.3518197,802.152857 21.5582352,811.539732 24.2296236,820.50486 C26.9010121,829.469987 30.5202584,837.063864 35.087471,843.286717 C39.6546835,849.50957 44.609604,854.308478 49.952381,857.683585 C50.1247286,857.683585 50.2970737,857.789056 50.4694213,858 C11.6912013,852.93734 -13.5573499,834.901883 -25.2769897,803.893089 C-29.7580285,792.291159 -32,780.689403 -32,769.087473 C-32.1708619,738.500567 -17.3491868,711.289176 12.4669557,687.452484 C24.0142479,678.17094 33.2347086,667.623889 40.1286143,655.811015 C47.0225201,643.998141 51.2449741,632.976473 52.7961029,622.74568 C54.3472317,612.514888 55.0796982,602.917071 54.9935244,593.951944 C54.9073505,584.986816 54.174884,577.973027 52.7961029,572.910367 L50.7279415,565 C52.9684609,565.632833 55.9414131,566.740273 59.6468875,568.322354 C63.3523618,569.904436 70.4185093,573.543168 80.8455418,579.238661 C91.2725743,584.934154 101.139329,591.315119 110.446102,598.381749 C119.752874,605.448379 129.705802,615.098931 140.305182,627.333693 C150.904562,639.568456 159.564901,652.752269 166.286459,666.885529 C173.52506,682.284454 178.307636,698.948794 180.634329,716.87905 C182.961022,734.809305 182.314728,752.317409 178.695428,769.403888 C174.214389,790.498306 163.313564,809.852144 145.992626,827.465983 C128.671687,845.079822 107.861021,855.257726 83.5600036,858 C93.3838193,852.515451 101.828727,845.448927 108.894981,836.800216 C115.961234,828.151505 121.347017,818.817365 125.052492,808.797516 C128.757966,798.777668 131.300056,788.547028 132.678837,778.105292 C134.057618,767.663555 134.316135,757.063769 133.454397,746.305616 C132.765007,738.078793 130.955383,730.010299 128.025474,722.099892 C125.095564,714.189485 121.821007,707.544843 118.201707,702.165767 C114.582406,696.78669 111.049333,691.987782 107.60238,687.768898 C104.155427,683.550015 101.225561,680.49137 98.8126939,678.592873 L95.2053586,675.43917 L95.2053586,675.43917 Z" id="f" fill="#136785" fill-rule="nonzero" opacity="0.100000001" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(230.000000, 484.000000)">
+            <g id="Group-3-Copy" transform="translate(0.000000, 51.000000)" opacity="0.963890439">
+                <g id="group">
+                    <g id="card-/-main-/-default-high">
+                        <g id="panel-/-main-/-default">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <rect stroke="#E5EDF5" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="1019" height="300" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="button-/-medium-/-primary" transform="translate(739.000000, 236.000000)">
+                        <g id="panel-/-main-/-default-copy" transform="translate(124.666667, 19.000000) scale(1, -1) translate(-124.666667, -19.000000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <rect stroke="#AED9E8" stroke-width="1" stroke-linejoin="square" fill="#479CBA" fill-rule="evenodd" x="1.16666667" y="0.5" width="247" height="37" rx="18.5"></rect>
+                        </g>
+                        <text id="Show-more" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="23" y="25">View more music data</tspan>
+                        </text>
+                        <text id="keyboard_arrow_right" opacity="0.85" font-family="MaterialIcons-Regular, Material Icons" font-size="27" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="212" y="32">keyboard_arrow_right</tspan>
+                        </text>
+                    </g>
+                    <g id="table-/-sm" transform="translate(30.000000, 85.000000)">
+                        <g id="thead">
+                            <g id="tr">
+                                <g id="th">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                    </g>
+                                    <text id="#" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="24" fill="#D2D2D2">
+                                        <tspan x="17.0823529" y="21">#</tspan>
+                                    </text>
+                                </g>
+                                <g id="th-right-1of3" transform="translate(46.882353, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                    </g>
+                                    <text id="Artist" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" letter-spacing="1" fill="#D2D2D2">
+                                        <tspan x="0.117647059" y="21">ARTIS</tspan>
+                                        <tspan x="52.2216471" y="21">T</tspan>
+                                    </text>
+                                </g>
+                                <g id="th-right-1of3-copy" transform="translate(399.000000, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                                    </g>
+                                    <text id="Plays" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" letter-spacing="1" fill="#D2D2D2">
+                                        <tspan x="202.008" y="21">PLAY</tspan>
+                                        <tspan x="246.616" y="21">S</tspan>
+                                    </text>
+                                </g>
+                                <g id="th-right-1of3-copy" transform="translate(693.588235, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                                    </g>
+                                    <text id="Songs" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" letter-spacing="1" fill="#D2D2D2">
+                                        <tspan x="109.195765" y="21">SONGS</tspan>
+                                    </text>
+                                </g>
+                                <g id="th-right-1of3-copy-2" transform="translate(903.294118, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="tbody" transform="translate(0.000000, 34.000000)">
+                            <g id="tr">
+                                <g id="th">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                                    </g>
+                                    <text id="1" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="24" fill="#373A3C">
+                                        <tspan x="17.0823529" y="21">1</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(46.882353, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-20"></use>
+                                    </g>
+                                    <text id="The-Wiggles" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="0.117647059" y="20">The Wiggles</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(693.588235, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+                                    </g>
+                                    <text id="189" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="143.312" y="20">189</tspan>
+                                    </text>
+                                </g>
+                                <g id="td-copy" transform="translate(399.000000, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-24"></use>
+                                    </g>
+                                    <text id="86,340" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="206.072" y="20">86,340</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(899.294118, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-27)" xlink:href="#path-26"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-26"></use>
+                                    </g>
+                                    <text id="share" font-family="MaterialIcons-Regular, Material Icons" font-size="23" font-weight="normal" fill="#479CBA">
+                                        <tspan x="30.7058824" y="27">share</tspan>
+                                    </text>
+                                    <text id="delete" font-family="MaterialIcons-Regular, Material Icons" font-size="23" font-weight="normal" fill="#DE1428">
+                                        <tspan x="0.705882353" y="27">delete</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="tr-copy" transform="translate(0.000000, 34.000000)">
+                                <g id="th">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-29)" xlink:href="#path-28"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-28"></use>
+                                    </g>
+                                    <text id="2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="24" fill="#373A3C">
+                                        <tspan x="17.0823529" y="21">2</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(46.882353, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-31)" xlink:href="#path-30"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-30"></use>
+                                    </g>
+                                    <text id="Dolly-Parton" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="0.117647059" y="20">Dolly Parton</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(694.588235, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-33)" xlink:href="#path-32"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-32"></use>
+                                    </g>
+                                    <text id="244" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="142.312" y="20">244</tspan>
+                                    </text>
+                                </g>
+                                <g id="td-copy-2" transform="translate(399.000000, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-35)" xlink:href="#path-34"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-34"></use>
+                                    </g>
+                                    <text id="86,333" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="207.072" y="20">86,333</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(899.294118, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-37)" xlink:href="#path-36"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-36"></use>
+                                    </g>
+                                    <text id="share" font-family="MaterialIcons-Regular, Material Icons" font-size="23" font-weight="normal" fill="#479CBA">
+                                        <tspan x="30.7058824" y="29">share</tspan>
+                                    </text>
+                                    <text id="delete" font-family="MaterialIcons-Regular, Material Icons" font-size="23" font-weight="normal" fill="#DE1428">
+                                        <tspan x="0.705882353" y="29">delete</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="tr-copy-2" transform="translate(0.000000, 68.000000)">
+                                <g id="th">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-39)" xlink:href="#path-38"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-38"></use>
+                                    </g>
+                                    <text id="3" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="24" fill="#373A3C">
+                                        <tspan x="17.0823529" y="21">3</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(46.882353, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-41)" xlink:href="#path-40"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-40"></use>
+                                    </g>
+                                    <text id="Wellington-Internati" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="0.117647059" y="20">Wellington International Ukulele Orchestra</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(693.588235, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-43)" xlink:href="#path-42"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-42"></use>
+                                    </g>
+                                    <text id="12" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="153.619765" y="20">12</tspan>
+                                    </text>
+                                </g>
+                                <g id="td-copy-3" transform="translate(399.000000, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-45)" xlink:href="#path-44"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+                                    </g>
+                                    <text id="85,023" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" fill="#373A3C">
+                                        <tspan x="207.072" y="20">85,023</tspan>
+                                    </text>
+                                </g>
+                                <g id="td" transform="translate(899.294118, 0.000000)">
+                                    <g id="th-bg">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-47)" xlink:href="#path-46"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-46"></use>
+                                    </g>
+                                    <text id="share" font-family="MaterialIcons-Regular, Material Icons" font-size="23" font-weight="normal" fill="#479CBA">
+                                        <tspan x="30.7058824" y="29">share</tspan>
+                                    </text>
+                                    <text id="delete" font-family="MaterialIcons-Regular, Material Icons" font-size="23" font-weight="normal" fill="#DE1428">
+                                        <tspan x="0.705882353" y="29">delete</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(30.000000, 30.000000)">
+                        <g id="nav-/-pill-/-active">
+                            <g>
+                                <mask id="mask-49" fill="white">
+                                    <use xlink:href="#path-48"></use>
+                                </mask>
+                                <use id="Rectangle" fill="#EEF6F9" xlink:href="#path-48"></use>
+                                <polygon id="indictor" fill="#AED9E8" mask="url(#mask-49)" points="134 38 134 40 0 40 0 38"></polygon>
+                                <text id="Label" mask="url(#mask-49)" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#479CBA">
+                                    <tspan x="43.3671875" y="26">Artists</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="nav-/-pill-/-default" transform="translate(134.000000, 0.000000)">
+                            <g>
+                                <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="134" height="40" rx="2"></rect>
+                                <text id="Label" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#479CBA">
+                                    <tspan x="44.6679688" y="26">Songs</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="nav-/-pill-/-default" transform="translate(268.000000, 0.000000)">
+                            <g>
+                                <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="134" height="40" rx="2"></rect>
+                                <text id="Label" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#479CBA">
+                                    <tspan x="41.3945312" y="26">Moods</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="nav-/-pill-/-active" transform="translate(365.000000, 11.000000)">
+                            <rect id="Rectangle" fill="#F5A623" x="0" y="0" width="20" height="18" rx="2"></rect>
+                            <text id="1" font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="3.15039062" y="13">21</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(739.000000, 25.000000)">
+                        <g id="input-/-medium-/-select" transform="translate(74.000000, 0.000000)">
+                            <g id="input-/-select">
+                                <g id="Rectangle">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-50"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-51)" xlink:href="#path-50"></use>
+                                    <rect stroke="#AED9E8" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="184" height="37" rx="18.5"></rect>
+                                </g>
+                                <text id="directdown" font-family="SSPika, SS Pika" font-size="10.6875" font-weight="normal" fill="#C4C4C4">
+                                    <tspan x="164.21875" y="24.0625">directdown</tspan>
+                                </text>
+                                <text id="All" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#063647">
+                                    <tspan x="19" y="25">Most played</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="Order-by" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal" fill="#333333">
+                            <tspan x="0.3359375" y="25">Order by</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <text id="Top-Music" font-family="OpenSans-Regular, Open Sans" font-size="24" font-weight="normal" fill="#4A4A4A">
+                <tspan x="0" y="26">Top Music</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(297.000000, 265.000000)">
+            <g id="Group-5-Copy" transform="translate(287.000000, 0.000000)">
+                <g id="Group-15" transform="translate(62.000000, 0.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-53)" xlink:href="#path-52"></use>
+                        <use fill="#399948" fill-rule="evenodd" xlink:href="#path-52"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-52"></use>
+                        <use stroke="#FFFFFF" stroke-width="3" xlink:href="#path-52"></use>
+                    </g>
+                    <text id="5" font-family="OpenSans-SemiBold, Open Sans" font-size="32" font-weight="500" fill="#FFFFFF">
+                        <tspan x="49.8671875" y="67">5</tspan>
+                    </text>
+                    <g id="Group-8" transform="translate(20.000000, 72.000000)" fill="#FFFFFF">
+                        <text id="2-last-30-days" font-family="OpenSans-ExtraBold, Open Sans" font-size="9" font-weight="600" fill-opacity="0.704427083">
+                            <tspan x="15.907959" y="11">2</tspan>
+                            <tspan x="21.1813965" y="11" font-family="OpenSans-SemiBold, Open Sans" font-weight="500"> </tspan>
+                            <tspan x="23.5192871" y="11" font-family="OpenSans-SemiBoldItalic, Open Sans" font-style="italic" font-weight="500">last 30 days</tspan>
+                        </text>
+                        <text id="arrow_upward" font-family="MaterialIcons-Regular, Material Icons" font-size="14" font-weight="normal">
+                            <tspan x="0" y="14">arrow_upward</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 126.000000)" fill="#4A4A4A" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" opacity="0.900000036">
+                    <text id="Slices-of-pizza-in-t">
+                        <tspan x="63.5019531" y="19">Slices of pizza</tspan>
+                        <tspan x="70.2783203" y="43">in the fridge</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-5-Copy-2" transform="translate(607.000000, 0.000000)">
+                <g id="Group-16" transform="translate(62.000000, 0.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                        <use fill="#1E852E" fill-rule="evenodd" xlink:href="#path-55"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-57)" xlink:href="#path-55"></use>
+                        <use stroke="#FFFFFF" stroke-width="3" xlink:href="#path-55"></use>
+                    </g>
+                    <text id="1,324" font-family="OpenSans-SemiBold, Open Sans" font-size="32" font-weight="500" fill="#FFFFFF">
+                        <tspan x="18.6953125" y="67">1,324</tspan>
+                    </text>
+                    <g id="Group-9" transform="translate(19.000000, 72.000000)" fill="#FFFFFF">
+                        <text id="23-last-30-days" font-family="OpenSans-ExtraBold, Open Sans" font-size="9" font-weight="600" fill-opacity="0.704427083">
+                            <tspan x="14.7712402" y="11">23</tspan>
+                            <tspan x="25.3181152" y="11" font-family="OpenSans-SemiBold, Open Sans" font-weight="500"> </tspan>
+                            <tspan x="27.6560059" y="11" font-family="OpenSans-SemiBoldItalic, Open Sans" font-style="italic" font-weight="500">last 30 days</tspan>
+                        </text>
+                        <text id="arrow_upward" font-family="MaterialIcons-Regular, Material Icons" font-size="14" font-weight="normal">
+                            <tspan x="0" y="14">arrow_upward</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="Favourite-songs-begi" opacity="0.900000036" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="11.0004883" y="145">Favourite songs beginning</tspan>
+                    <tspan x="50.1777344" y="169">with the letter 'A'</tspan>
+                </text>
+            </g>
+            <g id="Group-5-Copy-3">
+                <g id="Group-13" transform="translate(62.000000, 0.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-59)" xlink:href="#path-58"></use>
+                        <use fill="#DE1428" fill-rule="evenodd" xlink:href="#path-58"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-58"></use>
+                        <use stroke="#FFFFFF" stroke-width="3" xlink:href="#path-58"></use>
+                    </g>
+                    <text id="198" font-family="OpenSans-SemiBold, Open Sans" font-size="32" font-weight="500" fill="#FFFFFF">
+                        <tspan x="32.1015625" y="67">198</tspan>
+                    </text>
+                    <g id="Group-7" transform="translate(18.000000, 72.000000)" fill="#FFFFFF">
+                        <text id="84-last-30-days" font-family="OpenSans-ExtraBold, Open Sans" font-size="9" font-weight="600" fill-opacity="0.704427083">
+                            <tspan x="15.7712402" y="11">84</tspan>
+                            <tspan x="26.3181152" y="11" font-family="OpenSans-Regular, Open Sans" font-weight="normal"> </tspan>
+                            <tspan x="28.6560059" y="11" font-family="OpenSans-SemiBoldItalic, Open Sans" font-style="italic" font-weight="500">last 30 days</tspan>
+                        </text>
+                        <text id="arrow_downward" font-family="MaterialIcons-Regular, Material Icons" font-size="14" font-weight="normal">
+                            <tspan x="0" y="14">arrow_downward</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-6" transform="translate(0.000000, 126.000000)" fill="#4A4A4A" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" opacity="0.900000036">
+                    <text id="Cat-videos-watched">
+                        <tspan x="39.8286133" y="19">Cat videos watched</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="layout-/-app-sidebar">
+            <rect id="bg" fill="#063647" x="0" y="0" width="200" height="839"></rect>
+            <g id="app-sidebar__auxilliary" transform="translate(0.000000, 753.000000)">
+                <text id="©-FireFly-2019" opacity="0.25" font-family="OpenSans-SemiBold, Open Sans" font-size="10" font-weight="500" fill="#FFFFFF">
+                    <tspan x="65.9985352" y="80">© FireFly 2019</tspan>
+                </text>
+                <g id="nav">
+                    <polygon id="Line" fill-opacity="0.238199301" fill="#FFFFFF" fill-rule="nonzero" points="0 1 0 0 200 0 200 1"></polygon>
+                    <g id="nav-/-item-/-large-/-default" transform="translate(0.000000, 1.000000)">
+                        <g id="nav-/-sidebar-/-item-/-large-/-default">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="200" height="32"></rect>
+                            <g id="nav-/-sidebar-/-indicator-/-none" fill="#FFFFFF" opacity="0">
+                                <polygon id="nav-/-sidebar-/-indicator-/-selected" points="4 4.37257068e-14 4 32 0 32 0 0"></polygon>
+                            </g>
+                            <text id="title" opacity="0.6" font-family="OpenSans-Light, Open Sans" font-size="18" font-weight="300" fill="#FFFFFF">
+                                <tspan x="16" y="22">Settings</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="nav-/-item-/-large-/-default" transform="translate(0.000000, 33.000000)">
+                        <g id="nav-/-sidebar-/-item-/-large-/-default">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="200" height="32"></rect>
+                            <g id="nav-/-sidebar-/-indicator-/-none" fill="#FFFFFF" opacity="0">
+                                <polygon id="nav-/-sidebar-/-indicator-/-selected" points="4 4.37257068e-14 4 32 0 32 0 0"></polygon>
+                            </g>
+                            <text id="title" opacity="0.6" font-family="OpenSans-Light, Open Sans" font-size="18" font-weight="300" fill="#FFFFFF">
+                                <tspan x="16" y="22">Logout</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="app-sidebar__primary" transform="translate(1.000000, 63.000000)">
+                <g id="nav">
+                    <g id="nav-/-item-/-large-/-default" transform="translate(0.000000, 96.000000)">
+                        <g id="nav-/-sidebar-/-item-/-large-/-default">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="200" height="32"></rect>
+                            <g id="nav-/-sidebar-/-indicator-/-none" fill="#FFFFFF" opacity="0">
+                                <polygon id="nav-/-sidebar-/-indicator-/-selected" points="4 4.37257068e-14 4 32 0 32 0 0"></polygon>
+                            </g>
+                            <text id="title" opacity="0.6" font-family="OpenSans-Light, Open Sans" font-size="18" font-weight="300" fill="#FFFFFF">
+                                <tspan x="16" y="22">Music</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="nav-/-item-/-large-/-default" transform="translate(0.000000, 64.000000)">
+                        <g id="nav-/-sidebar-/-item-/-large-/-default">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="200" height="32"></rect>
+                            <g id="nav-/-sidebar-/-indicator-/-none" fill="#FFFFFF" opacity="0">
+                                <polygon id="nav-/-sidebar-/-indicator-/-selected" points="4 4.37257068e-14 4 32 0 32 0 0"></polygon>
+                            </g>
+                            <text id="title" opacity="0.6" font-family="OpenSans-Light, Open Sans" font-size="18" font-weight="300" fill="#FFFFFF">
+                                <tspan x="16" y="22">Food</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="nav-/-item-/-large-/-default" transform="translate(0.000000, 32.000000)">
+                        <g id="nav-/-sidebar-/-item-/-large-/-default">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="200" height="32"></rect>
+                            <g id="nav-/-sidebar-/-indicator-/-none" fill="#FFFFFF" opacity="0">
+                                <polygon id="nav-/-sidebar-/-indicator-/-selected" points="4 4.37257068e-14 4 32 0 32 0 0"></polygon>
+                            </g>
+                            <text id="title" opacity="0.6" font-family="OpenSans-Light, Open Sans" font-size="18" font-weight="300" fill="#FFFFFF">
+                                <tspan x="16" y="22">Animals</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="nav-/-item-/-large-/-selected" fill="#FFFFFF">
+                        <g id="nav-/-sidebar-/-item-/-large-/-selected">
+                            <rect id="Rectangle" fill-opacity="0.1" x="0" y="0" width="200" height="32"></rect>
+                            <g id="nav-/-sidebar-/-indicator-/-selected">
+                                <polygon points="4 4.37257068e-14 4 32 0 32 0 0"></polygon>
+                            </g>
+                            <text id="title" font-family="OpenSans-Light, Open Sans" font-size="18" font-weight="300">
+                                <tspan x="16" y="22">Overview</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="app-sidebar__header">
+                <polygon id="Line" fill-opacity="0.238199301" fill="#FFFFFF" fill-rule="nonzero" points="0 65 0 64 200 64 200 65"></polygon>
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="199" height="63"></rect>
+                <g id="nav-/-sidebar-/-title-/-medium" transform="translate(51.000000, 15.000000)" fill="#FFFFFF" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500">
+                    <text id="nav-/-sidebar-/-title-/-large">
+                        <tspan x="0" y="24.9583333">DataDashboard</tspan>
+                    </text>
+                </g>
+                <g id="firefly-logo" transform="translate(15.000000, 12.000000)" fill="#F5A623" fill-rule="nonzero">
+                    <path d="M16.6436918,14.3231689 C16.7112523,14.3855934 16.806568,14.9733291 16.9296417,16.0863931 C17.0536676,17.208069 17.1269545,18.0424739 17.1495046,18.5896328 C17.3073558,22.2829558 16.9916583,24.8956007 16.2024027,26.4276458 C15.3454966,28.0417647 14.3645794,28.8488121 13.2596216,28.8488121 C12.6733175,28.8488121 12.1603091,28.5547186 11.720581,27.9665227 C11.2808529,27.3783268 10.9820678,26.4823674 10.8242166,25.2786177 C10.6663655,23.9107203 10.7903895,22.4607708 11.1962924,20.9287257 C9.79818254,22.3239811 8.73834096,23.7807699 8.01673587,25.2991361 C7.29513078,26.8175022 6.91742128,28.2127366 6.88359605,29.4848812 C6.84977081,30.7570258 7.00761955,31.9744362 7.35714702,33.137149 C7.70667448,34.2998618 8.18022072,35.2847332 8.77779994,36.0917927 C9.37537915,36.8988521 10.0236865,37.5212361 10.7227414,37.9589633 C10.7452916,37.9589633 10.7678414,37.9726421 10.7903916,38 C5.71660578,37.3434092 2.41305703,35.0043398 0.879646208,30.9827214 C0.293342072,29.4780342 0,27.9733697 0,26.4686825 C-0.0223557583,22.50178 1.91692883,18.9726576 5.81810636,15.8812095 C7.32896701,14.6774598 8.53538243,13.3095829 9.43738879,11.7775378 C10.3393952,10.2454927 10.8918658,8.81606135 11.0948172,7.48920086 C11.2977686,6.16234038 11.3936054,4.91757241 11.3823303,3.75485961 C11.3710552,2.59214681 11.2752185,1.68250868 11.0948172,1.02591793 L10.8242166,0 C11.1173687,0.0820738445 11.5063531,0.225700918 11.9911815,0.430885529 C12.47601,0.63607014 13.4005526,1.10798767 14.7648372,1.84665227 C16.1291219,2.58531687 17.4200991,3.41288239 18.6378077,4.32937365 C19.8555163,5.24586491 21.1577684,6.49747227 22.5446032,8.08423326 C23.931438,9.67099425 25.0645665,11.3808404 25.9440227,13.2138229 C26.8911294,15.2109531 27.5168869,17.3721986 27.8213141,19.6976242 C28.1257412,22.0230498 28.0411794,24.2937254 27.567626,26.5097192 C26.9813219,29.245514 25.5550457,31.7555681 23.2887548,34.0399568 C21.0224638,36.3243455 18.2995729,37.6443467 15.1200005,38 C16.4053595,37.2886933 17.5103008,36.3722158 18.4348573,35.25054 C19.3594138,34.1288641 20.0640957,32.918293 20.5489241,31.6187905 C21.0337525,30.319288 21.3663624,28.9924474 21.5467637,27.6382289 C21.7271649,26.2840105 21.7609897,24.9092942 21.6482389,23.5140389 C21.5580382,22.4470789 21.3212651,21.4006531 20.9379124,20.37473 C20.5545597,19.348807 20.1261131,18.4870445 19.6525598,17.7894168 C19.1790064,17.0917892 18.7167351,16.4694052 18.2657319,15.9222462 C17.8147288,15.3750873 17.4313818,14.978403 17.1156796,14.7321814 L16.6436918,14.3231689 L16.6436918,14.3231689 Z" id="f"></path>
+                </g>
+            </g>
+        </g>
+        <g id="card" transform="translate(200.000000, 0.000000)">
+            <g id="card-/-main-/-pale-high">
+                <g id="panel-/-main-/-default">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                    <rect stroke="#AED9E8" stroke-width="1" stroke-linejoin="square" fill="#EEF6F9" fill-rule="evenodd" x="0.5" y="0.5" width="1079" height="171" rx="2"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-63"></use>
+                    <rect stroke="#AED9E8" stroke-width="1" stroke-linejoin="square" fill="#D6EBF3" fill-rule="evenodd" x="0.5" y="0.5" width="1079" height="171"></rect>
+                </g>
+            </g>
+            <g id="card-header" transform="translate(170.000000, 30.000000)" fill="#333333" font-family="OpenSans-Regular, Open Sans" font-size="20" font-weight="normal">
+                <text id="Welcome!">
+                    <tspan x="324.21875" y="21">Welcome!</tspan>
+                </text>
+            </g>
+            <g id="card-body" transform="translate(30.000000, 65.000000)" fill="#333333" font-family="OpenSans-Regular, Open Sans" font-size="16" font-weight="normal">
+                <text id="Before-you-get-to-ca">
+                    <tspan x="93.8242188" y="17">Before you get to carried away, do you agree to us collecting anonimized statistics about your usage of our app?</tspan>
+                </text>
+            </g>
+            <g id="card-footer" transform="translate(404.000000, 102.000000)">
+                <g id="button-/-medium-/-primary-outline">
+                    <g>
+                        <g id="panel-/-main-/-default-copy" transform="translate(69.333333, 19.000000) scale(1, -1) translate(-69.333333, -19.000000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-66)" xlink:href="#path-65"></use>
+                            <rect stroke="#479CBA" stroke-width="1" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" x="0.5" y="0.5" width="137.666667" height="37" rx="18.5"></rect>
+                        </g>
+                        <text id="Show-more" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#479CBA">
+                            <tspan x="41" y="25">Disagree</tspan>
+                        </text>
+                        <text id="add" opacity="0.85" font-family="MaterialIcons-Regular, Material Icons" font-size="27" font-weight="normal" fill="#479CBA">
+                            <tspan x="11.5" y="31">close</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="button-/-medium-/-primary" transform="translate(154.000000, 0.000000)">
+                    <g>
+                        <g id="panel-/-main-/-default-copy" transform="translate(59.333333, 19.000000) scale(1, -1) translate(-59.333333, -19.000000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-68)" xlink:href="#path-67"></use>
+                            <rect stroke="#AED9E8" stroke-width="1" stroke-linejoin="square" fill="#479CBA" fill-rule="evenodd" x="0.5" y="0.5" width="117.666667" height="37" rx="18.5"></rect>
+                        </g>
+                        <text id="Show-more" font-family="OpenSans-Regular, Open Sans" font-size="18" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="41" y="25">I agree</tspan>
+                        </text>
+                        <text id="add" opacity="0.85" font-family="MaterialIcons-Regular, Material Icons" font-size="27" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="11.5" y="32">check</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="Overview" font-family="OpenSans-Regular, Open Sans" font-size="24" font-weight="normal" fill="#4A4A4A">
+            <tspan x="230" y="228">Overview</tspan>
+        </text>
+    </g>
+</svg>
