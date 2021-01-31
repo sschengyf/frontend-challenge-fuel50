@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'OpenSans bold';
+  font-style: normal;
+  src: url('./assets/fonts/OpenSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans regular';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./assets/fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'OpenSans light';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./assets/fonts/OpenSans-Light.ttf') format('truetype');
+}
+
+body {
+  font-size: 16px;
+}
+
+.text-regular {
+  font-family: 'OpenSans regular';
+}
+
+.text-light {
+  font-family: 'OpenSans light';
+}
