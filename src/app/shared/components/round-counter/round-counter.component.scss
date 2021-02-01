@@ -1,0 +1,30 @@
+.data-presenter {
+  margin: 0;
+  width: 7.375rem;
+  height: 7.375rem;
+  border-radius: 50%;
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.27), inset 0 0 0 4px rgba(0, 0, 0, 0.18);
+  border: solid 3px #ffffff;
+  color: #fff;
+  &.red {
+    background-color: #de1428;
+  }
+  &.green {
+    background-color: #399948;
+  }
+}
+.data-number {
+  font-size: 2rem;
+}
+.data-change {
+  font-size: 0.5625rem;
+  .material-icons {
+    font-size: 0.875rem;
+    vertical-align: bottom;
+  }
+}
+.data-title {
+  font-size: 1.125rem;
+  color: rgba($color: #4a4a4a, $alpha: 0.9);
+  margin: 0.5rem 0 0;
+}
