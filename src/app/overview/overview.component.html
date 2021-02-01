@@ -1,1 +1,11 @@
-<p>overview works!</p>
+<h1 class="h1">Overview</h1>
+<div class="d-flex justify-content-around">
+  <app-round-counter
+    *ngFor="let activity of activities"
+    [variant]="activity.variant"
+    [figure]="activity.figure"
+    [upOrDown]="activity.upOrDown"
+    [changeDiff]="activity.diff"
+    [label]="activity.name"
+  ></app-round-counter>
+</div>

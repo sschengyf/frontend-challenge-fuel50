@@ -1,4 +1,4 @@
-<div class="d-inline-flex flex-column align-items-center">
+<div class="round-counter d-inline-flex flex-column align-items-center">
   <figure
     class="data-presenter text-center d-flex flex-column justify-content-center"
     [ngClass]="{ red: variant === 'red', green: variant === 'green' }"
@@ -9,5 +9,5 @@
       >{{ changeDiff }} last 30 days
     </figcaption>
   </figure>
-  <p class="font-light data-title">{{ label }}</p>
+  <p class="font-light data-title text-center">{{ label }}</p>
 </div>
