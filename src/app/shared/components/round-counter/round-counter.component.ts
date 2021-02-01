@@ -6,12 +6,12 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./round-counter.component.scss'],
 })
 export class RoundCounterComponent implements OnInit {
-  @Input() variant: 'red' | 'green' | undefined;
-  @Input() figure: number | undefined;
-  @Input() upOrDown: 'up' | 'down' | undefined;
-  @Input() changeDiff: number | undefined;
-  @Input() label: string | undefined;
-  protected iconMapping = {
+  @Input() variant: 'red' | 'green' = 'red';
+  @Input() figure: number = 0;
+  @Input() upOrDown: 'up' | 'down' = 'up';
+  @Input() changeDiff: number = 0;
+  @Input() label: string = '';
+  readonly iconMapping = {
     up: 'arrow_upward',
     down: 'arrow_downward',
   };
