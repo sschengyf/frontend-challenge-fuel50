@@ -17,12 +17,14 @@ Red.args = {
   figure: 184,
   upOrDown: 'down',
   changeDiff: 30,
+  label: 'Cats video watched',
 };
 
 export const Green = Template.bind({});
 Green.args = {
   variant: 'green',
-  figure: 184,
+  figure: 1841,
   upOrDown: 'up',
   changeDiff: 30,
+  label: 'Runnings in this month',
 };

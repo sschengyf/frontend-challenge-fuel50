@@ -11,6 +11,10 @@ export class RoundCounterComponent implements OnInit {
   @Input() upOrDown: 'up' | 'down' | undefined;
   @Input() changeDiff: number | undefined;
   @Input() label: string | undefined;
+  protected iconMapping = {
+    up: 'arrow_upward',
+    down: 'arrow_downward',
+  };
 
   constructor() {}
 
