@@ -12,6 +12,6 @@ export class OverviewComponent implements OnInit {
   constructor(private overview: OverviewService) {}
 
   ngOnInit(): void {
-    this.overview.getUserOverview().subscribe(data => (this.activities = data));
+    this.overview.getUserOverview().subscribe(data => (this.activities = data.activities));
   }
 }

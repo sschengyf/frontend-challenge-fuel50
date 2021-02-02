@@ -17,6 +17,6 @@ export class OverviewService {
   constructor(private http: HttpClient) {}
 
   getUserOverview() {
-    return this.http.get<Activity[]>('assets/mocks/overview.json');
+    return this.http.get<{ activities: Activity[] }>('assets/mocks/overview.json');
   }
 }
