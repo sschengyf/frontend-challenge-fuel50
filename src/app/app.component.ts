@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dashboard';
+  sidebarOpen = false;
+  showSidebar(show: boolean) {
+    this.sidebarOpen = show;
+  }
 }

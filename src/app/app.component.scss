@@ -1,7 +1,24 @@
+// Required
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+@import '../../node_modules/bootstrap/scss/mixins';
+
+// Optional
+@import '../../node_modules/bootstrap/scss/root';
+@import '../../node_modules/bootstrap/scss/reboot';
+@import '../../node_modules/bootstrap/scss/type';
+@import '../../node_modules/bootstrap/scss/images';
+@import '../../node_modules/bootstrap/scss/grid';
+
 .sidebar {
   background-color: #063647;
   width: 12.5rem;
   color: #fff;
+  @include media-breakpoint-down(md) {
+    &.shrink {
+      width: 3rem;
+    }
+  }
   .brand {
     padding: 15px;
     border-bottom: solid 1px #979797;
