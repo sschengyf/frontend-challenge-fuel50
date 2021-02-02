@@ -66,7 +66,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "run-p format lint"
+      "pre-commit": "run-p format"
     }
   }
 }
