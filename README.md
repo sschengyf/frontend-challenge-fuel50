@@ -28,3 +28,21 @@ Please follow the [WAI-ARIA's practice guideline](https://www.w3.org/TR/wai-aria
 ## Project code structure
 
 Before start contributing, please read through [Project code structure](./docs/code-structure.md).
+
+## Implementation notes
+
+- [x] Framework: Angular
+- [x] Language: TypeScript
+- [x] Style library: Bootstrap
+
+### Remaining components
+
+- [ ] Toast notification
+- [ ] Tabular data
+- [ ] Tab
+- [ ] Dropdown
+
+### Next tech tasks
+
+- [ ] Dataflow
+- [ ] Set up unit test framework to replace Karma
