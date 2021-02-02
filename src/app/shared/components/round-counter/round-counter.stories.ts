@@ -6,8 +6,8 @@ export default {
   title: 'Components/RoundCounter',
   component: RoundCounterComponent,
   parameters: {
-    notes
-  }
+    notes,
+  },
 } as Meta;
 
 const Template: Story<RoundCounterComponent> = (args: RoundCounterComponent) => ({
