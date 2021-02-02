@@ -8,14 +8,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Scripts
 
-| Command              | Description                                   |
-| -------------------- | --------------------------------------------- |
-| yarn start           | Start  Dashboard APP local development server |
-| yarn storybook:start | Start Storybook local development server      |
-| yarn format          | Run Prettier and fix formatting               |
-| yarn test            | Run unit test                                 |
-| yarn build           | Build Dashboard package                       |
-| yarn storybook:build | Build Storybook static website                |
+| Command              | Description                                  |
+| -------------------- | -------------------------------------------- |
+| yarn start           | Start Dashboard APP local development server |
+| yarn storybook:start | Start Storybook local development server     |
+| yarn format          | Run Prettier and fix formatting              |
+| yarn test            | Run unit test                                |
+| yarn build           | Build Dashboard package                      |
+| yarn storybook:build | Build Storybook static website               |
 
 ## UI component showroom
 

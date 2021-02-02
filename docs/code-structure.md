@@ -33,7 +33,6 @@ app
 ├── overview                   # a feature module, everything just for the feature is in the module
 │   ├── components
 ├── core                       # core module contains the singleton services
-│   ├── interceptors
 │   └── services
 └── shared                     # shared module contains the reusable elements, like component, pipe, directive
     ├── components
